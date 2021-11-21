@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d59ea571-c721-4cd0-bd67-d54fcb1148e7": {
+      "ProjectGuid": "d59ea571-c721-4cd0-bd67-d54fcb1148e7",
+      "DisplayName": "csv2obj",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
